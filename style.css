@@ -9,12 +9,16 @@ h1{
 }
 
 img {
-  bottom: 20px;
+  display: block;
+  margin: 20px auto;
+  width: 90%;
+  border-radius: 20px;
+ 
+ 
+}
+.btn {
   display: block;
   margin: 0 auto;
-  max-width: 100%;
-  border-radius: 10px;
-  padding-top: 20px;
-  padding-bottom: 20px;
- 
+  background-color: white;
+  width: 90px;
 }
