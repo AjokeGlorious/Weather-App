@@ -7,3 +7,14 @@ h1{
   top: 20px;
 
 }
+
+img {
+  bottom: 20px;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  border-radius: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+ 
+}
